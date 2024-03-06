@@ -1,2 +1,2 @@
 # FrootsTD
-BloonsTD copy made to try RayLib and practice my Lua
+BloonsTD copy made to try RayLib and learn Lua basics
